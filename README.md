@@ -1,6 +1,4 @@
-# Hello,👋 I'm Harshal Kharabe  
-
-💡 **Backend Developer | Enthusiastic About AIML** 
+# 🧠 Backend Developer @DMT | AI/ML Enthusiast
 
 ### 🛠 Tech Stack:
 **🔹Languages:** Python, JavaScript 
