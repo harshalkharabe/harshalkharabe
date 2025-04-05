@@ -4,11 +4,15 @@
 🚀 **Passionate about Backend Development, RestAPIs, and AIML**  
 
 ### 🛠 Tech Stack:
-- **Languages:** Python, JavaScript  
-- **Backend:** FastAPI, Flask, Django
-- **Frontend:** HTML5, CSS3, Basic JavaScript  
-- **Databases:** PostgreSQL, MySQL, MongoDB  
-- **Tools:** Git, GitHub, Postman, VS Code  
+**🔹Languages:** Python, JavaScript 
+
+**🔹Backend:** FastAPI, Flask, Django
+
+**🔹Frontend:** HTML5, CSS3, Basic JavaScript  
+
+**🔹Databases:** PostgreSQL, MySQL, MongoDB  
+
+**🔹Tools:** Git, GitHub, Postman, VS Code  
 
 ### 🌱 Currently Learning:
 - **Machine Learning** with Andrew Ng’s course on Coursera  
