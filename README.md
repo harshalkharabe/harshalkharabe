@@ -1,4 +1,4 @@
-# 🧠 Backend Developer @DMT | AI/ML Enthusiast
+# 🧠 Backend Developer @DMT | FastAPI | PostgreSQL
 
 ### 🛠 Tech Stack:
 **🔹Languages:** Python, JavaScript 
